@@ -1,2 +1,3 @@
 # Initiation html/css
-index/style templates files
+Template files: "index.html", "style.css"  
+[Github pages website example](https://narciso-a.github.io/)
