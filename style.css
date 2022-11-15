@@ -1,15 +1,21 @@
-h1{
-    font-size: 30px;
-    text-align: center;
-    color: #de7471
-    }
-    
-    p{
-    font-size: 20px;
-    text-align: left;
-    font-family: Helvetica, sans-serif;
-    }
-    
-    body {
-    background-color: #007471;
-    }
+h1,h2,h1+p
+{
+	text-align: center;
+}
+img
+{
+	display:block;
+    margin:auto;
+	border: 1px rgb(11, 2, 63) solid;
+	box-shadow: 2px 2px 2px rgba(24, 160, 201, 0.253);
+    width: 30%;
+}
+h2
+{
+	color: #6E4A46;
+}
+body
+{
+	background-image: url("couleur_de_fond.png");	
+}
+
